@@ -1,0 +1,7 @@
+names
+are
+separated
+by
+lines
+like
+this
